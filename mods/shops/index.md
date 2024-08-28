@@ -6,7 +6,7 @@ If you want to sell items, your best location is the Shopping District. In order
 If the Shopping District is not a viable option for you, you are free to build your shop anywhere else without asking a moderator.
 
 Once you built your house, you can now stock it with items. You firstly need to craft a Trade Shop, which can be placed on any storage container, e.g. barrel.  
-![](./img/trade_block.png)
+![](./recipes/trade_block.png)
 
 Once placed down, it will complain that it is unconfigured. To configure it, right click the shop to open up it's menu. There you have multiple options for the price, stock and the hologram.
 ### Price Type
