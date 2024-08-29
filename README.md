@@ -1,5 +1,5 @@
 # Boring SMP Wiki
 
 ## Mods
-- [Claims](./mods/claims/index.md)
-- [Shops](./mods/shops/index.md)
+- [Get Off My Lawn](./mods/goml/index.md)
+- [Universal Shops](./mods/universal_shops/index.md)
