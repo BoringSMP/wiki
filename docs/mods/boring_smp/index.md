@@ -1,4 +1,4 @@
-# Boring SMP Mod
+# Boring SMP
 ## Warp Stone
 The Warp Stone item can be used to teleport to Lodestones. It works very similar to a compass, that can be bound to a Lodestone. You can bind a Warp Stone to a Lodestone by right clicking, and then always teleport back to the Lodestone.  
 In case the Lodestone gets removed, your Warp Stone will no longer work.  
