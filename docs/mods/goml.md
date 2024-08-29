@@ -39,7 +39,7 @@ Explosion Controller | Allows toggeling of explosions                     | ![](
 ## Goggles of Claim Revealing
 You can craft Goggles of Claim Revealing to reveal claim borders.  
 You can either wear them on your head or hold them in any of your hands to see the borders. Be aware that it only has one durability, so when wearing it be careful.  
-![](./img/goggles.png)
+![](./recipes/goml/goggles.png)
 
 ## Exceptions
 While claims protect the majority of your entities and blocks, there are some exceptions.
